@@ -1,0 +1,35 @@
+html {
+  overscroll-behavior: none;
+}
+
+nav {
+  display: flex;
+  padding: 10px 0px;
+  border-bottom: 5px solid black;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+}
+
+h1 {
+  line-height: 1.5 !important;
+  font-size: 48px !important;
+}
+
+hr {
+  width: 100%;
+  margin: 0px;
+}
+
+header {
+  padding: 160px 0px 130px;
+  text-align: center;
+  background-color: rgba(0, 255, 255, 0.436);
+}
+
+footer {
+  border-top: 5px solid black;
+  padding: 50px;
+  margin: 0px;
+  background-color: gray;
+}
